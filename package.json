@@ -17,10 +17,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/KevinDurand974/cra-template-kd974-basic",
+    "url": "https://github.com/lucas-rossolini/cra-template-rosso-tailwindcss",
     "directory": "/"
   },
   "bugs": {
-    "url": "https://github.com/KevinDurand974/cra-template-kd974-basic/issues"
+    "url": "https://github.com/lucas-rossolini/cra-template-rosso-tailwindcss/issues"
   }
 }
