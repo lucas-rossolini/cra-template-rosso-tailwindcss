@@ -1,0 +1,26 @@
+{
+  "name": "cra-template-rosso-tailwindcss",
+  "version": "1.0.0",
+  "description": "ReactJS Template with ESLint. Contains, Axios, Dotenv, React-Router-Dom and Sass as dependencies, TailwindCss, Prettier, Eslint and co as dev dependencies.",
+  "author": "Lucas Rossolini",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14"
+  },
+  "main": "template.json",
+  "files": [
+    "template",
+    "template.json"
+  ],
+  "keywords": [
+    "react", "create-react-app", "template", "eslint", "prettier", "react", "router-dom", "sass", "scss", "tailwindcss"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KevinDurand974/cra-template-kd974-basic",
+    "directory": "/"
+  },
+  "bugs": {
+    "url": "https://github.com/KevinDurand974/cra-template-kd974-basic/issues"
+  }
+}
