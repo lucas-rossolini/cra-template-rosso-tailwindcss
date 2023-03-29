@@ -1,23 +1,23 @@
 {
   "package": {
     "dependencies": {
-      "axios": "latest",
-      "dotenv": "latest",
-      "sass": "latest",
-      "react-router-dom": "latest"
+      "axios": ">=1",
+      "dotenv": ">=16",
+      "sass": ">=1",
+      "react-router-dom": ">=6"
     },
     "devDependencies": {
-      "eslint": "latest",
-      "eslint-config-airbnb": "latest",
-      "eslint-config-prettier": "latest",
-      "eslint-import-resolver-webpack": "latest",
-      "eslint-plugin-import": "latest",
-      "eslint-plugin-jsx-a11y": "latest",
-      "eslint-plugin-prettier": "latest",
-      "eslint-plugin-react": "latest",
-      "eslint-plugin-react-hooks": "latest",
-      "prettier": "latest",
-      "tailwindcss": "latest"
+      "eslint": "^8.3.0",
+      "eslint-config-airbnb": ">=19.0",
+      "eslint-config-prettier": ">=8.0",
+      "eslint-import-resolver-webpack": ">=0.13",
+      "eslint-plugin-import": ">=2.25",
+      "eslint-plugin-jsx-a11y": ">=6.5",
+      "eslint-plugin-prettier": ">=4.0",
+      "eslint-plugin-react": ">=7.27",
+      "eslint-plugin-react-hooks": ">=4.3",
+      "prettier": ">=2.0",
+      "tailwindcss": ">=3"
     },
     "eslintConfig": {
       "extends": [
